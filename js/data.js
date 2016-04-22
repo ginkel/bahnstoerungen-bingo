@@ -46,6 +46,8 @@ var JSONBingo = {"squares": [
         {"square": "Fahrgastrechte"},
         {"square": "Senk ju vor träwelling"},
         {"square": "Hohe Auslastung"},
+        {"square": "Anschlussverlust"},
+        {"square": "Hotspot gestört"},
         {"square": "Stellwerks- störung"}
     ]
 };
