@@ -1,7 +1,7 @@
 
 var headerText = "Bahn-Bingo";
 
-var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Fork me on Github</a> - based on <a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>HTML5-Bingo</a>";
+var footerText = "" // "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Fork me on Github</a> - based on <a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>HTML5-Bingo</a>";
 
 var winText = "Gewonnen!";
 
@@ -45,6 +45,7 @@ var JSONBingo = {"squares": [
         {"square": "Technische Störung an einem anderen Zug"},
         {"square": "Fahrgastrechte"},
         {"square": "Senk ju vor träwelling"},
-        {"square": "Hohe Auslastung"}
+        {"square": "Hohe Auslastung"},
+        {"square": "Stellwerks- störung"}
     ]
 };
